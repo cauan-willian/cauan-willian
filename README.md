@@ -27,6 +27,6 @@
   
 ##
 
-![Snake animation](https://github.com/cauan-willian/cauan-willian)
+![Snake animation](https://github.com/rafaballerini/cauan-willian/blob/output/github-contribution-grid-snake.svg)
 
     
