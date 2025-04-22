@@ -1,15 +1,6 @@
-### Olá amigo DEV! Sou o Cauan Willian 👋
-
-- 🔭 Hoje trabalho com Tecnologia da Informação
-- 🌱 Estudando HTML, CSS, JavaScript, Python e MySQL
-- 📫 Entre em contato comigo no email: cauanwillian.santos@gmail.com
-- 😄 Pronomes: ele/dele
+### 👋 Olá! Sou um entusiasta de tecnologia que trabalha com monitoramento inteligente e desenvolvimento de aplicações. Estudo Python e JavaScript, buscando sempre criar soluções práticas e intuitivas.
 
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauan-willian&show_icons=true&theme=dark&include_all_commits=true&count_private=true" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauan-willian&layout=donut&theme=dark&langs_count=16" >
-</div> 
 
 
 <div style="display: inline_block"><br>
